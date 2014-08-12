@@ -7,12 +7,13 @@ fcfs
 easy
 greedy_activeres_opttarget:maxminyield
 greedy-pmtn-migr_activeres_opttarget:maxminyield
-greedy_activeres_opttarget:maxminyield_per:600
+greedy-pmtn-migr_opttarget:maxminyield_per:600
 greedy-pmtn-migr_activeres_opttarget:maxminyield_per:600
+mcb8_activeres_opttarget:maxminyield_per:600
+opttarget:maxminyield_per:600
+stretch_opttarget:minmaxstretch_per:600
 greedy-pmtn-migr_activeres_opttarget:maxminyield_per:600_minvt:600
 mcb8_activeres_opttarget:maxminyield_per:600_minvt:600
-opttarget:maxminyield_per:600_minvt:600
-stretch_opttarget:minmaxstretch_per:600_minvt:600
 EOF
 )
 
